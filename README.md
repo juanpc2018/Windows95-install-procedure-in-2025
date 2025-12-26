@@ -31,6 +31,7 @@ there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix
 #8. once Update is Done, reboot, remove .iso, reboot again, go to Win95, mount .iso again, has a partition with 1 software VMM.exe install that File, Unmount .iso, Reboot </br>
 #9. install [dotNet9x](https://github.com/itsmattkc/dotnet9x/releases) Backport of .NET 2.0 -> 3.5 to Windows 9x [video story here](https://www.youtube.com/watch?v=CTUMNtKQLl8) </br>
 #10. increase VM CPU speed to 100%, if continues to have boot problems, dissable Nested Virtualization in VirtualBox 6.1.50 </br>
+#11. install [SoftGPU driver](https://github.com/JHRobotics/softgpu) </br>
 
 Basically thats it. </br>
 to have Super VGA screen resolution, requires installing VirtualBox CD drivers, but version 6.1.50 does Not work "Not W95 compatible" </br>
