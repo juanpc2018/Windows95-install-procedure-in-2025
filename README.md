@@ -68,6 +68,6 @@ requires older VirtualBox driver CD or SoftGPU drivers </br>
 VirtualBox 6.1.50 driver CD is more compatible with XP to Win8.1x64 </br>
 
 86Box try to have time accurate HW emulation "emulation of Old Hardware" requires Real Drivers. </br>
-Win95 B has built-in audio drivers/support for VirtualBox SounBlaster16 </br>
+Win95 B has built-in audio driver/support for SounBlaster16 </br>
 some old software does Not run if Date is too far away in the future, </br>
 requires to manually change the system clock or a software like [nirsoft RunAsDate v1.41](https://www.nirsoft.net/utils/run_as_date.html) </br>
