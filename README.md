@@ -16,7 +16,7 @@ WineVDM [OTVDM](https://github.com/otya128/winevdm) is another alternative. </br
 NTVDM [story](https://github.com/leecher1337/ntvdmx64) is interesting to read, </br>
 same as W95Fix CPU README. </br>
 
-installing Real Win95 is easy & faster. </br>
+installing Real Win95 is easy & fast. </br>
 
 #1. Download 95se "B" .iso </br>
 #2. Download 1.44" Floppy Win95 Boot .img "Win95.iso does Not Boot" </br>
