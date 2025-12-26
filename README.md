@@ -62,7 +62,7 @@ there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix
 #15. install CPU-Z [Vintage Edition](https://www.cpuid.com/news/66-cpu-z-vintage-edition.html) Win9x [.zip](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip) </br>
 
 
-Basically thats it. </br>
+Thats it. </br>
 to have Super VGA screen resolution, requires installing VirtualBox CD drivers, but v6.1.50 does Not work "Not W95 compatible" </br>
 requires older VirtualBox driver CD or SoftGPU drivers </br>
 VirtualBox 6.1.50 driver CD is more compatible with XP to Win8.1x64 </br>
