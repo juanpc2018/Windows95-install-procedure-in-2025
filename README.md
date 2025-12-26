@@ -24,7 +24,7 @@ IA-32 Only: PII (1997), PIII (1999), P4 130nm (2000) </br>
 WineVDM [OTVDM](https://github.com/otya128/winevdm) is an alternative. </br>
 
 NTVDM [story](https://github.com/leecher1337/ntvdmx64) is interesting to read, </br>
-same as W95Fix CPU README. </br>
+same as W95Fix CPU Readme. </br>
 
 installing Real Win95 is easy & fast. </br>
 
