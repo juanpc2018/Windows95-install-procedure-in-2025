@@ -11,14 +11,14 @@ is very easy to install in [Win10 32-Bit](https://learn.microsoft.com/en-us/wind
 Maybe Win8.1x32 has NTVDM </br>
 
 ¿what is NTVDM? </br>
-its a Virtual CPU created for WindowsNT4 that allos to Run x86 16-Bit software on 32-Bit </br>
-NT4 was also available from DEC Alpha & PowerPC CPU's </br>
-NTVDMx64 its a 3rd party version "proof of concept" to make the virtual x86 CPU work in 64-Bit </br>
+its a Virtual CPU created for WindowsNT4 that allows to Run x86 16-Bit software on 32-Bit </br>
+NT4 was available for x86-32, DEC Alpha & PowerPC CPU's </br>
+NTVDMx64 it's a 3rd party version "proof of concept" to make virtual x86 CPU work in 64-Bit </br>
 similar to Apple Rosetta in OSX SnowLeopard 10.6.8 </br>
 but instead of emulating a PowerPC G4 "32-Bit" CPU, it's emulating a 16-Bit 8086/80186/80286 CPU. </br>
 ISA: 64-Bit: PPC 970 G5 (2002-2005) & P4 90nm Prescott (2004) </br>
 ISA: x86-16 & IA-32: i386dx(1985), i486 (1989), i586 (1993) </br>
-IA-32 Only: PII (1997), PIII (1999), P4 (2000) </br>
+IA-32 Only: PII (1997), PIII (1999), P4 130nm (2000) </br>
 
 [NTVDMx64](https://github.com/leecher1337/ntvdmx64) based on OpenNT is hard to compile, Hard to Find dependencies, </br>
 WineVDM [OTVDM](https://github.com/otya128/winevdm) is an alternative. </br>
