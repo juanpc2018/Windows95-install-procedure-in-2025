@@ -8,7 +8,11 @@ is very easy to install in [Win10 32-Bit](https://learn.microsoft.com/en-us/wind
     Enable NTVDM: PowerShell> DISM /online /enable-feature /all /featurename:NTVDM
     Disable NTVDM: PowerShell> DISM /online /disable-feature /featurename:NTVDM
 
-Maybe Win8.1x32 also has NTVDM </br>
+Maybe Win8.1x32 has NTVDM </br>
+
+¿what is NTVDM? its a Virtual CPU created for WindowsNT4 that allos to Run 16-Bit software on 32-Bit </br>
+NTVDMx64 is a 3rd party version, proof of concept, to make the virtual CPU work in 64-Bit </br>
+similar to Apple Rosetta included in OSX SnowLeopard 10.6.8 but instead of emulating PowerPC G4 "32-Bit" is emulating a 16-Bit 8086/80186/80286 CPU. </br>
 
 [NTVDMx64](https://github.com/leecher1337/ntvdmx64) based on OpenNT is hard to compile, Hard to Find dependencies, </br>
 WineVDM [OTVDM](https://github.com/otya128/winevdm) is an alternative. </br>
