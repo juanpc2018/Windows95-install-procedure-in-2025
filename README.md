@@ -31,6 +31,7 @@ exFAT is prefered for most other things, transfer files between OSX Linux & Wind
     FDISK
 
 Create Primary Partition, Exit, Reboot. </br>
+
 #8. Format is Not included on the 1.44MB W95 Boot Floppy, </br>
 its on a folder in the W95 CD.iso </br>
 
