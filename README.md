@@ -24,7 +24,7 @@ but instead of emulating a PowerPC G4 "32-Bit" CPU, it's emulating a 16-Bit 8086
     Dual-Core: 1GHz G4 (2002), Pentium D (2005), Pentium Dual-Core (2007) </br>
 
 [NTVDMx64](https://github.com/leecher1337/ntvdmx64) based on OpenNT is hard to compile, Hard to Find dependencies, </br>
-WineVDM [OTVDM](https://github.com/otya128/winevdm) is an alternative. </br>
+WineVDM [OTVDM](https://github.com/otya128/winevdm) is an alternative, included in Wine & forks: PlayOnLinux, PlayOnMac, Lutris, Proton, Bottles, etc. </br>
 
 NTVDM [story](https://github.com/leecher1337/ntvdmx64) is interesting to read, </br>
 same as W95Fix CPU Readme. </br>
