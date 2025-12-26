@@ -18,7 +18,7 @@ same as W95Fix CPU README. </br>
 
 installing Real Win95 is easy & fast. </br>
 
-#1. Download 95se "B" .iso </br>
+#1. Download 95se "B" .iso haven't tested "C" </br>
 #2. Download 1.44" Floppy Win95 Boot .img "Win95.iso does Not Boot" </br>
 #3. Download [VirtualBox 6.1.50](https://www.virtualbox.org/wiki/Download_Old_Builds) or older, "6.1.50 VM driver install CD does Not work, NT3 drivers does Not work."
 #4. install VBox or similar, VMware Fusion Player 11.2 "OSX Catalina" or VMware Workstation Player "Windows", QEMU, GEM5, 86Box, PCem.co.uk, ProxMox </br>
