@@ -53,6 +53,7 @@ there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix
 Basically thats it. </br>
 to have Super VGA screen resolution, requires installing VirtualBox CD drivers, but v6.1.50 does Not work "Not W95 compatible" </br>
 requires older VirtualBox driver CD or SoftGPU drivers </br>
+VirtualBox 6.1.50 driver CD is more compatible with Win8.1x64 </br>
 
 86Box try to have time accurate HW emulation "emulation of Old Hardware" requires Real Drivers. </br>
 Win95 B has built-in audio drivers/support for VirtualBox SounBlaster16 </br>
