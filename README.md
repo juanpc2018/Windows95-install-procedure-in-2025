@@ -10,8 +10,8 @@ is very easy to install in [Win10 32-Bit](https://learn.microsoft.com/en-us/wind
 
 Maybe Win8.1x32 also has NTVDM </br>
 
-3rd party NTVDM is complex to compile, requires Hard to Find dependencies, </br>
-WineVDM [OTVDM](https://github.com/otya128/winevdm) is another alternative. </br>
+[NTVDMx64](https://github.com/leecher1337/ntvdmx64) is complex to compile, Hard to Find dependencies, </br>
+WineVDM [OTVDM](https://github.com/otya128/winevdm) is an alternative. </br>
 
 NTVDM [story](https://github.com/leecher1337/ntvdmx64) is interesting to read, </br>
 same as W95Fix CPU README. </br>
