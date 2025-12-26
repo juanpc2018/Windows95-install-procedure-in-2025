@@ -39,6 +39,7 @@ its on a folder in the W95 CD.iso </br>
       cd folder
       format c: /s 
 Reboot, Remove Floppy, Boot from Win95se .iso </br>
+
 #9. install Windows95 </br>
 *Do Not change Generic VGA Display Adapter, wont boot, requires Safe-mode Boot. </br>
 
