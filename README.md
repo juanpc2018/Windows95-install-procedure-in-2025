@@ -19,7 +19,7 @@ but instead of emulating a PowerPC G4 "32-Bit" CPU, it's emulating a 16-Bit 8086
 
     ISA x86-16 & IA-32: i386dx(1985), i486 (1989), i586 (1993) </br>
     IA-32 Only: PII (1997), PIII (1999), P4 130nm (2000) </br>
-    ISA 64-Bit: PPC 970 G5 (2002-2005) & P4 90nm Prescott (2004) </br>
+    ISA 64-Bit: PPC 970 G5 (2002-2005) & P4 90nm (2004) </br>
     Dual Core: 1GHz G4 (2002), Pentium D (2005), Pentium Dual-Core (2007) </br>
 
 [NTVDMx64](https://github.com/leecher1337/ntvdmx64) based on OpenNT is hard to compile, Hard to Find dependencies, </br>
