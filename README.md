@@ -78,4 +78,4 @@ Win95 B has built-in audio driver/support for SoundBlaster16 </br>
 some old software does Not run if Date is too far away in the future, </br>
 requires to manually change the system clock or a software like [nirsoft RunAsDate v1.41](https://www.nirsoft.net/utils/run_as_date.html) </br>
 
-Other optional software to install: MagicDisc Virtual CD-Rom drive "Not required on VM, Only Bare Metal", older version of WinRAR, 7z. </br>
+Other optional software: MagicDisc Virtual CD-Rom drive "Not required on VM, Only Bare Metal", older version of WinRAR, 7z. </br>
