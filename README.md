@@ -43,9 +43,9 @@ Reboot, Remove Floppy, Boot from Win95se .iso </br>
 #9. install Windows95 </br>
 *Do Not change Generic VGA Display Adapter, wont boot, requires Safe-mode Boot. </br>
 
-#10. Download & booot CD.iso: Win95 CPU Fix | Updates Win95 B to Fix most problems with Faster Machines. </br>
-there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix95CPU v3](http://lonecrusader.x10host.com/fix95cpu.html)  | [PatchMem](http://lonecrusader.x10host.com/rloew/patchmem.html)</br>
-#11. once Update is Done, reboot, remove .iso, reboot again, go to Win95, mount .iso again, has a partition with 1 software VMM.exe install that File, Unmount .iso, Reboot </br>
+#10. Download & boot Win95 CPU FixCD.iso | Update Win95 B to Fix most problems with Faster Machines. </br>
+there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix95CPU v3](http://lonecrusader.x10host.com/fix95cpu.html) + [PatchMem](http://lonecrusader.x10host.com/rloew/patchmem.html)</br>
+#11. once Update is Done, reboot, remove CD.iso, reboot, Boot Win95, mount CD.iso again, has a partition with 1 software VMM.exe install that File, Unmount .iso, Reboot. </br>
 #12. install [dotNet9x](https://github.com/itsmattkc/dotnet9x/releases) Backport of .NET 2.0 -> 3.5 to Windows 9x [video story here](https://www.youtube.com/watch?v=CTUMNtKQLl8) </br>
 #13. increase VM CPU speed to 100%, if continues to have boot problems, dissable Nested Virtualization in VirtualBox 6.1.50 </br>
 #14. install [SoftGPU driver](https://github.com/JHRobotics/softgpu) </br>
