@@ -10,7 +10,7 @@ is very easy to install in [Win10 32-Bit](https://learn.microsoft.com/en-us/wind
 
 Maybe Win8.1x32 also has NTVDM </br>
 
-[NTVDMx64](https://github.com/leecher1337/ntvdmx64) based on OpneNT is hard to compile, Hard to Find dependencies, </br>
+[NTVDMx64](https://github.com/leecher1337/ntvdmx64) based on OpenNT is hard to compile, Hard to Find dependencies, </br>
 WineVDM [OTVDM](https://github.com/otya128/winevdm) is an alternative. </br>
 
 NTVDM [story](https://github.com/leecher1337/ntvdmx64) is interesting to read, </br>
