@@ -15,8 +15,8 @@ WineVDM [OTVDM](https://github.com/otya128/winevdm) is another alternative. </br
 
 installing Real Win95 is easy & faster. </br>
 
-#1. Download 95se "B" .iso
-#2. Download 1.44" Floppy Win95 Boot .img "Win95.iso does Not Boot"
+#1. Download 95se "B" .iso </br>
+#2. Download 1.44" Floppy Win95 Boot .img "Win95.iso does Not Boot" </br>
 #3. Download [VirtualBox 6.1.50](https://www.virtualbox.org/wiki/Download_Old_Builds) or older, "6.1.50 VM driver install CD does Not work, NT3 drivers does Not work."
 #4. install VBox or similar, VMware Fusion Player 11.2 "OSX Catalina" or VMware Workstation Player "Windows", QEMU, GEM5, 86Box, PCem.co.uk, ProxMox </br>
 Parallels for OSX Not recommended because 1 time paid version "Non-Subscription" has a limit on Virtual SATA controller, speed is SATA-1 1.5Gbps or SATA-2 3Gbps cant remember. </br>
@@ -28,7 +28,7 @@ exFAT is prefered for most other things, transfer files between OSX Linux & Wind
 #9. install [dotNet9x](https://github.com/itsmattkc/dotnet9x/releases) Backport of .NET 2.0 -> 3.5 to Windows 9x [video story here](https://www.youtube.com/watch?v=CTUMNtKQLl8) </br>
 #10. increase VM CPU speed to 100%, if continues to have boot problems, dissable Nested Virtualization in VirtualBox 6.1.50 </br>
 
-Basically thats it.
+Basically thats it. </br>
 to have Super VGA screen resolution, requires installing VirtualBox CD drivers, but version 6.1.50 does Not work "Not W95 compatible" </br>
 Do Not change Generic VGA Display Adapter, wont boot, requires Safe-mode Boot. </br>
 86Box has better support for Old Hardware, requires Real Drivers from Real HW. </br>
