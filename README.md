@@ -65,7 +65,7 @@ there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix
 #12. install [dotNet9x](https://github.com/itsmattkc/dotnet9x/releases) Backport of .NET 2.0 -> 3.5 to Windows 9x [video story here](https://www.youtube.com/watch?v=CTUMNtKQLl8) </br>
 #13. increase VM CPU speed to 100%, if continues to have boot problems, dissable Nested Virtualization in VirtualBox 6.1.50 </br>
 #14. install [SoftGPU driver](https://github.com/JHRobotics/softgpu) </br>
-#15. install CPU-Z [Vintage Edition](https://www.cpuid.com/news/66-cpu-z-vintage-edition.html) Win9x [.zip](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip) </br>
+#15. install CPU-Z [Vintage Edition](https://www.cpuid.com/news/66-cpu-z-vintage-edition.html) Win9x [.zip](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip) Run Benchmark. </br>
 
 
 Thats it. </br>
@@ -77,3 +77,5 @@ VirtualBox 6.1.50 driver CD is more compatible with XP to Win8.1x64 </br>
 Win95 B has built-in audio driver/support for SoundBlaster16 </br>
 some old software does Not run if Date is too far away in the future, </br>
 requires to manually change the system clock or a software like [nirsoft RunAsDate v1.41](https://www.nirsoft.net/utils/run_as_date.html) </br>
+
+Other optional software to install: MagicDisc Virtual CD-Rom drive "Not required on VM, Only Bare Metal", older version of WinRAR, 7z. </br>
