@@ -5,8 +5,8 @@ because NTVDM was deprecated in W11 </br>
 its very hard to compile on Win8.1x64 </br>
 is very easy to install in [Win10 32-Bit](https://learn.microsoft.com/en-us/windows/compatibility/ntvdm-and-16-bit-app-support) Only. </br>
 
-    Enable NTVDM: DISM /online /enable-feature /all /featurename:NTVDM
-    Disable NTVDM: DISM /online /disable-feature /featurename:NTVDM
+    Enable NTVDM: PowerShell> DISM /online /enable-feature /all /featurename:NTVDM
+    Disable NTVDM: PowerShell> DISM /online /disable-feature /featurename:NTVDM
 
 Maybe Win8.1x32 also has NTVDM </br>
 
