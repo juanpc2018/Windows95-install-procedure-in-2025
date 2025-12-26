@@ -35,8 +35,10 @@ installing Real Win95 is easy & fast. </br>
 Parallels for OSX Not recommended because 1 time paid version "Non-Subscription" has a limit on Virtual SATA controller, speed is SATA-1 1.5Gbps or SATA-2 3Gbps cant remember. </br>
 #5. create a small machine: 512MB RAM, 512MB IDE HDD, limit CPU speed as low as possible 350MHz less. </br>
 #6. create Dynamic .vhd </br>
-.vhd can be mounted later in Win8.1x64 Disk Manager to transfer files fast & easy, unmount & Run VM again, VM partition where .vhd is, must be NTFS. </br>
-exFAT is prefered for most other things, transfer files between OSX, Linux & Windows R/W. </br>
+.vhd can be mounted later in Win8.1x64 Disk Manager to transfer files fast & easy, unmount & Run VM again, </br>
+VM partition where .vhd is, must be NTFS. </br>
+exFAT is prefered for most other things, transfer files between: OSX, Linux & Windows R/W. </br>
+
 #7. boot from W95 Floppy </br>
 
     FDISK
