@@ -13,7 +13,7 @@ Probably Win8.1x32 has NTVDM </br>
 ¿what is [NTVDM](https://en.wikipedia.org/wiki/Virtual_DOS_machine#Windows_NTVDM)? </br>
 its a Virtual CPU & Kernel created for WindowsNT3.51 / NT4 that allows to Run x86 DOS & Win 16-Bit software on 32-Bit OS </br>
 NT4 (1996-2001) was available for x86-32, DEC Alpha, MIPS R16K & PowerPC CPU's </br>
-emulates Win3.1 Kernel & API calls. </br>
+emulates CPU, Win3.1 Kernel & API calls. </br>
 similar to Apple Rosetta in OSX SnowLeopard 10.6.8 (2009-2011) </br>
 but instead of emulating a PowerPC G4 "32-Bit" CPU, it's emulating a 16-Bit 8086/80186/80286 CPU. </br>
 
