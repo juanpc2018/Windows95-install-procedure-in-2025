@@ -3,18 +3,17 @@
 ¿why? </br>
 because NTVDM was deprecated in W11 </br>
 its very hard to [compile on Win8.1x64](https://github.com/leecher1337/ntvdmx64) </br>
-is very easy to install in [Win10 32-Bit](https://learn.microsoft.com/en-us/windows/compatibility/ntvdm-and-16-bit-app-support) Only. </br>
+is very easy to install on [Win10 32-Bit](https://learn.microsoft.com/en-us/windows/compatibility/ntvdm-and-16-bit-app-support) Only. </br>
 
     Enable NTVDM: PowerShell> DISM /online /enable-feature /all /featurename:NTVDM
     Disable NTVDM: PowerShell> DISM /online /disable-feature /featurename:NTVDM
 
-Maybe Win8.1x32 has NTVDM </br>
+Probably Win8.1x32 has NTVDM </br>
 
-¿what is NTVDM? </br>
-its a Virtual CPU created for WindowsNT4 that allows to Run x86 16-Bit software on 32-Bit </br>
+¿what is [NTVDM](https://en.wikipedia.org/wiki/Virtual_DOS_machine#Windows_NTVDM)? </br>
+its a Virtual CPU & Kernel created for WindowsNT3.51 / NT4 that allows to Run x86 DOS & Win 16-Bit software on 32-Bit OS </br>
 NT4 (1996-2001) was available for x86-32, DEC Alpha, MIPS R16K & PowerPC CPU's </br>
-
-NTVDMx64 it's a 3rd party "proof of concept" to make virtual x86 CPU work in 64-Bit </br>
+emulates Win3.1 Kernel & API calls. </br>
 similar to Apple Rosetta in OSX SnowLeopard 10.6.8 (2009-2011) </br>
 but instead of emulating a PowerPC G4 "32-Bit" CPU, it's emulating a 16-Bit 8086/80186/80286 CPU. </br>
 
@@ -23,7 +22,10 @@ but instead of emulating a PowerPC G4 "32-Bit" CPU, it's emulating a 16-Bit 8086
     ISA 64-Bit: PPC 970 G5 (2002-2005) & P4 90nm (2004) </br>
     Dual-Core: 1GHz G4 (2002), Pentium D (2005), Pentium Dual-Core (2007) </br>
 
+
+NTVDMx64 it's a "proof of concept" to make virtual x86 CPU & Win3.1 Kernel work in 64-Bit OS </br>
 [NTVDMx64](https://github.com/leecher1337/ntvdmx64) based on OpenNT is hard to compile, Hard to Find dependencies, </br>
+Results may vary. </br>
 WineVDM [OTVDM](https://github.com/otya128/winevdm) is an alternative, included in Wine & forks: PlayOnLinux, PlayOnMac, Lutris, Proton, Bottles, etc. </br>
 
 NTVDM [story](https://github.com/leecher1337/ntvdmx64) is interesting to read, </br>
