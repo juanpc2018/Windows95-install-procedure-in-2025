@@ -24,8 +24,7 @@ but instead of emulating a PowerPC G4 "32-Bit" CPU, it's emulating a 16-Bit 8086
 
 
 NTVDMx64 it's a "proof of concept" to make virtual x86 CPU & Win3.1 Kernel work in 64-Bit OS </br>
-[NTVDMx64](https://github.com/leecher1337/ntvdmx64) based on OpenNT is hard to compile, Hard to Find dependencies, </br>
-Results may vary. </br>
+[NTVDMx64](https://github.com/leecher1337/ntvdmx64) based on OpenNT is hard to compile, Hard to Find dependencies, Results may vary. </br>
 WineVDM [OTVDM](https://github.com/otya128/winevdm) is an alternative, included in Wine & forks: PlayOnLinux, PlayOnMac, Lutris, Proton, Bottles, etc. </br>
 
 NTVDM [story](https://github.com/leecher1337/ntvdmx64) is interesting to read, </br>
