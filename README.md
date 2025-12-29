@@ -66,9 +66,11 @@ there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix
 #11. once Update is Done, reboot, remove CD.iso, reboot, Boot Win95, mount CD.iso again, has a partition with 1 software VMM.exe install that File, Unmount .iso, Reboot. </br>
 #12. install Internet Explorer 5.5sp2, or minimum ie 5.01 </bt>
 #13. install DirectX 8.0a </br>
+9.0, 9.0a, 9.0b, 9.0c untested, 9.0c has 15 different versions, each month installer was "updated" minor changes from sha1 to sha256, etc... </br>
 #14. install [dotNet9x](https://github.com/itsmattkc/dotnet9x/releases) Backport of .NET 2.0 -> 3.5 to Windows 9x [video story here](https://www.youtube.com/watch?v=CTUMNtKQLl8) </br>
 #15. increase VM CPU speed to 100%, if continues to have boot problems, dissable Nested Virtualization in VirtualBox 6.1.50 </br>
-#16. shutdown VM, force VMwareSuperVGA driver in VirtualBox Not on the configuration menu, on the main window double click over Display Adapter. </br>
+#16. shutdown VM, force VMwareSuperVGA driver in VirtualBox6.1 Not on the configuration menu, on the main window: double click over Display Adapter. </br>
+VirtualBox6.1 has 3 drivers, VB VGA, VB SVGA, VM SVGA </br>
 #17. install [SoftGPU driver](https://github.com/JHRobotics/softgpu) </br>
 
 
