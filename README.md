@@ -75,6 +75,7 @@ there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix
 CPU-Z [Vintage Edition](https://www.cpuid.com/news/66-cpu-z-vintage-edition.html) Win9x [1.04-win9x.zip](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip) </br>
 has a nice benchmark, but currentry Not working on Win95, only Win98, XP, ReactOS or Wine, OpenNT unknown. </br>
 Unigine Tropics [v1.3 (2010)](https://benchmark.unigine.com/tropics) Not working on Win95, only Win98, XP, ReactOS or Wine, OpenNT unknown. </br>
+version [v1.1 & v1.2](https://www.techpowerup.com/download/unigine-tropics-demo/) Untested. </br>
 would require older Benchmarks like Cinebenck 2003 </br>
 
 Thats it. </br>
