@@ -68,11 +68,14 @@ there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix
 #13. install DirectX 8.0a </br>
 #14. install [dotNet9x](https://github.com/itsmattkc/dotnet9x/releases) Backport of .NET 2.0 -> 3.5 to Windows 9x [video story here](https://www.youtube.com/watch?v=CTUMNtKQLl8) </br>
 #15. increase VM CPU speed to 100%, if continues to have boot problems, dissable Nested Virtualization in VirtualBox 6.1.50 </br>
-#16. install [SoftGPU driver](https://github.com/JHRobotics/softgpu) </br>
-#17. shutdown VM, force VMwareSuperVGA driver in VirtualBox Not on the configuration menu, on the main window double click over Display Adapter. </br>
+#16. shutdown VM, force VMwareSuperVGA driver in VirtualBox Not on the configuration menu, on the main window double click over Display Adapter. </br>
+#17. install [SoftGPU driver](https://github.com/JHRobotics/softgpu) </br>
+
 
 CPU-Z [Vintage Edition](https://www.cpuid.com/news/66-cpu-z-vintage-edition.html) Win9x [1.04-win9x.zip](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip) </br>
 has a nice benchmark, but currentry Not working on Win95, only Win98, XP, ReactOS or Wine, OpenNT unknown. </br>
+Unigine Tropics [v1.3 (2010)](https://benchmark.unigine.com/tropics) Not working on Win95, only Win98, XP, ReactOS or Wine, OpenNT unknown. </br>
+would require older Benchmarks like Cinebenck 2003 </br>
 
 Thats it. </br>
 to have SuperVGA screen resolution, requires installing VirtualBox CD drivers, but v6.1.50 does Not work "Not W95 compatible" </br>
