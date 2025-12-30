@@ -94,3 +94,8 @@ some old software does Not run if Date is too far away in the future, </br>
 requires to manually change the system clock or a software like [nirsoft RunAsDate v1.41](https://www.nirsoft.net/utils/run_as_date.html) </br>
 
 Other optional software: MagicDisc Virtual CD-Rom drive "Not required on VM, Only Bare Metal", older version of WinRAR, 7z. </br>
+
+Games: </br>
+The Need for Speed: Special Edition, released on PC CD-ROM, containing MS-DOS and Win95 versions. </br>
+includes two new tracks ("Transtropolis" and "Burnt Sienna") </br>
+The Need for Speed: Classic (1995) 1st released for 3DO, then DOS. </br>
