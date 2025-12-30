@@ -64,7 +64,7 @@ Reboot, Remove Floppy, Boot from Win95se .iso </br>
 #10. Download & boot Win95 CPU FixCD.iso | Update Win95 B to Fix most problems with Faster Machines. </br>
 there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix95CPU v3](http://lonecrusader.x10host.com/fix95cpu.html) + [PatchMem](http://lonecrusader.x10host.com/rloew/patchmem.html)</br>
 #11. once Update is Done, reboot, remove CD.iso, reboot, Boot Win95, mount CD.iso again, has a partition with 1 software VMM.exe install that File, Unmount .iso, Reboot. </br>
-#12. install Internet Explorer 5.5sp2, or minimum ie 5.01 </bt>
+#12. install Internet Explorer 5.5sp2, or minimum ie 5.01 "same as Win98se" </br>
 #13. install DirectX 8.0a </br>
 9.0, 9.0a, 9.0b, 9.0c untested, 9.0c has 15 different versions, each month installer was "updated" minor changes from sha1 to sha256, etc... </br>
 #14. install [dotNet9x](https://github.com/itsmattkc/dotnet9x/releases) Backport of .NET 2.0 -> 3.5 to Windows 9x [video story here](https://www.youtube.com/watch?v=CTUMNtKQLl8) </br>
