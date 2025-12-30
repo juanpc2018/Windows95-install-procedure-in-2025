@@ -65,20 +65,23 @@ Reboot, Remove Floppy, Boot from Win95se .iso </br>
 there are different: [patcher9x](https://github.com/JHRobotics/patcher9x) & [Fix95CPU v3](http://lonecrusader.x10host.com/fix95cpu.html) + [PatchMem](http://lonecrusader.x10host.com/rloew/patchmem.html)</br>
 #11. once Update is Done, reboot, remove CD.iso, reboot, Boot Win95, mount CD.iso again, has a partition with 1 software VMM.exe install that File, Unmount .iso, Reboot. </br>
 #12. install Internet Explorer 5.5sp2, or minimum ie 5.01 "same as Win98se" </br>
-#13. install DirectX 8.0a </br>
-9.0, 9.0a, 9.0b, 9.0c untested, 9.0c has 15 different versions, each month installer was "updated" minor changes from sha1 to sha256, etc... </br>
+#13. install DirectX 8.0a minimum, </br>
+9.0, 9.0a, 9.0b, 9.0c untested, 
+9.0c has 15 different versions, each month installer was "updated" minor changes from sha1 to sha256, etc... </br>
+DirectX 9.0c 2005 & 2006 probably work, 2007 probably Not, >2008 are for Win98. </br>
 #14. install [dotNet9x](https://github.com/itsmattkc/dotnet9x/releases) Backport of .NET 2.0 -> 3.5 to Windows 9x [video story here](https://www.youtube.com/watch?v=CTUMNtKQLl8) </br>
-#15. increase VM CPU speed to 100%, if continues to have boot problems, dissable Nested Virtualization in VirtualBox 6.1.50 </br>
-#16. shutdown VM, force VMwareSuperVGA driver in VirtualBox6.1 Not on the configuration menu, on the main window: double click over Display Adapter. </br>
-VirtualBox6.1 has 3 drivers, VB VGA, VB SVGA, VM SVGA </br>
+#15. increase VM CPU speed 100%, if continues to have boot problems, dissable Nested Virtualization in VirtualBox 6.1.50 </br>
+#16. shutdown VM, force VMwareSuperVGA driver in VirtualBox6.1 Not on the configuration menu, on the main window: double click over VBVGA Adapter, a small menu pop-up. </br>
+VirtualBox6.1 has 3 drivers: VB VGA *Default, VB SVGA, VM SVGA driver </br>
 #17. install [SoftGPU driver](https://github.com/JHRobotics/softgpu) </br>
 
 
 CPU-Z [Vintage Edition](https://www.cpuid.com/news/66-cpu-z-vintage-edition.html) Win9x [1.04-win9x.zip](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip) </br>
-has a nice benchmark, but currentry Not working on Win95, only Win98, XP, ReactOS or Wine, OpenNT unknown. </br>
+has a nice benchmark, but currentry does Not work on Win95, only Win98, XP, ReactOS or Wine, OpenNT unknown. </br>
 Unigine Tropics [v1.3 (2010)](https://benchmark.unigine.com/tropics) Not working on Win95, only Win98, XP, ReactOS or Wine, OpenNT unknown. </br>
-version [v1.1 & v1.2](https://www.techpowerup.com/download/unigine-tropics-demo/) Untested. </br>
-would require older Benchmarks like Cinebenck 2003 </br>
+version [v1.1 & v1.2](https://www.techpowerup.com/download/unigine-tropics-demo/) Untested.
+v1.0 unable to find download link. </br>
+W95 require older Benchmarks like Cinebenck 2003 </br>
 
 Thats it. </br>
 to have SuperVGA screen resolution, requires installing VirtualBox CD drivers, but v6.1.50 does Not work "Not W95 compatible" </br>
