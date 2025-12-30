@@ -77,10 +77,10 @@ VirtualBox6.1 has 3 drivers: VB VGA *Default, VB SVGA, VM SVGA driver </br>
 
 
 CPU-Z [Vintage Edition](https://www.cpuid.com/news/66-cpu-z-vintage-edition.html) Win9x [1.04-win9x.zip](https://www.cpuid.com/downloads/cpu-z/cpu-z_1.04-win9x.zip) </br>
-has a nice benchmark, but does Not work on Win95, Win98.
+has a nice benchmark, but does Not work on Win95, Win98. </br>
 Only XP, ReactOS or Wine, OpenNT unknown. </br>
-Unigine Tropics [v1.3 (2010)](https://benchmark.unigine.com/tropics) Not working on Win95, only Win98, XP, ReactOS or Wine, OpenNT unknown. </br>
-version [v1.1 (2008) & v1.2 (2009)](https://www.techpowerup.com/download/unigine-tropics-demo/) Untested.
+Unigine Tropics [v1.3 (2010)](https://benchmark.unigine.com/tropics) Not working on Win95, Only: XP, ReactOS or Wine, OpenNT unknown. </br>
+version [v1.1 (2008) & v1.2 (2009)](https://www.techpowerup.com/download/unigine-tropics-demo/) Untested. </br>
 W95 require older Benchmarks like Cinebench [2003](https://web.archive.org/web/*/http://http.maxon.net/*), [9.5](https://archive.org/search?query=cinebench_9.5.zip), [2010](https://archive.org/download/cinebench_201907) </br>
 
 Thats it. </br>
