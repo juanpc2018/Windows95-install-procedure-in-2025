@@ -99,4 +99,5 @@ Games: </br>
 The Need for Speed: Special Edition, released on PC CD-ROM, containing MS-DOS and Win95 versions. </br>
 includes two new tracks ("Transtropolis" and "Burnt Sienna") </br>
 The Need for Speed: Classic (1995) 1st released for 3DO, then DOS. </br>
-has Modem Multi-Player. </br>
+has Modem Multi-Player, Chat, and is possible to make a 360° Jump in 1 of the tracks. </br>
+
