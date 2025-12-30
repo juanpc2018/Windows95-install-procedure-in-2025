@@ -81,7 +81,7 @@ has a nice benchmark, but currentry does Not work on Win95, only Win98, XP, Reac
 Unigine Tropics [v1.3 (2010)](https://benchmark.unigine.com/tropics) Not working on Win95, only Win98, XP, ReactOS or Wine, OpenNT unknown. </br>
 version [v1.1 & v1.2](https://www.techpowerup.com/download/unigine-tropics-demo/) Untested.
 v1.0 unable to find download link. </br>
-W95 require older Benchmarks like Cinebenck [2003](https://web.archive.org/web/*/http://http.maxon.net/*), [9.5](https://archive.org/search?query=cinebench_9.5.zip), [2010](https://archive.org/download/cinebench_201907) </br>
+W95 require older Benchmarks like Cinebench [2003](https://web.archive.org/web/*/http://http.maxon.net/*), [9.5](https://archive.org/search?query=cinebench_9.5.zip), [2010](https://archive.org/download/cinebench_201907) </br>
 
 Thats it. </br>
 to have SuperVGA screen resolution, requires installing VirtualBox CD drivers, but v6.1.50 does Not work "Not W95 compatible" </br>
